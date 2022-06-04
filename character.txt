@@ -1,0 +1,6 @@
+characters
+
+mario
+sonic
+luigi
+bowser
